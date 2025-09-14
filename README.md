@@ -174,4 +174,4 @@ FLOW_THRESHOLD = 1.0  # Motion detection sensitivity
 - [ ] **Cloud Sync**: Optional cloud-based model updates
 
 ---
-Thank You
+Thank You...
